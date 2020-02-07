@@ -9,7 +9,8 @@ note - from here out we'll be looking at the completed project data unless menti
 2c. Which 5 projects had the most backers?
 2d. Which year had the most competition? (# of projects)
 
-3a. What is the success rate for all projects broken down by main_category? 3b. Show a horizontal bar chart for project success rate by main_category, sorted by highest to lowest.
+3a. What is the success rate for all projects broken down by main_category? 
+3b. Show a horizontal bar chart for project success rate by main_category, sorted by highest to lowest.
 3c. Within the Games main_category, what is the success rate for each category within it?
 
 4a. Calculate the 'pct_of_goal' for each completed project.
@@ -17,7 +18,11 @@ note - from here out we'll be looking at the completed project data unless menti
 4c. Plot a histogram distribution of all completed projects by pct_of_goal
 4d. Create 2 histogram subplots by pct_of_goal: 1) state=successful, and 2) all others (failed)
 
-5a. What is the average usd_goal_real for all completed kickstarter projects, broken down by main_category. 5b. What is the median usd_goal_real for all completed kickstarter projects, broken down by main_category. 5c. What is the average usd_pledged_real for all completed kickstarter projects, broken down by main_category. 5d. What is the median usd_pledged_real for all completed kickstarter projects, broken down by main_category. 5e. What insights does this information provide? (be creative)
+5a. What is the average usd_goal_real for all completed kickstarter projects, broken down by main_category. 
+5b. What is the median usd_goal_real for all completed kickstarter projects, broken down by main_category. 
+5c. What is the average usd_pledged_real for all completed kickstarter projects, broken down by main_category. 
+5d. What is the median usd_pledged_real for all completed kickstarter projects, broken down by main_category. 
+5e. What insights does this information provide? (be creative)
 5f. Based on this information, if someone wanted to choose the main_category with the highest combined success rate and pledged dollar amount, which one would you recommend?
 
 6a. Create a new column 'months' that shows how many months the project was active between launch and deadline.
